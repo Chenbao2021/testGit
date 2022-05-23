@@ -1,12 +1,5 @@
-Ici c'est pour faire des tests . 
+Ici  c'est pour faire des tests  en main . 
 
 Retour : Nouvelles modifications enregistrées.
-<<<<<<< HEAD
 dasdsadsa
 Edit : edit from main
-oooooooo
-Edit: Ajout from branch dev 
-=======
-ooooooooqqqqqqqq
-Edit: Ajout from branch dev 
->>>>>>> dev

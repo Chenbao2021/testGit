@@ -1,7 +1,12 @@
 Ici c'est pour faire des tests . 
 
 Retour : Nouvelles modifications enregistrées.
+<<<<<<< HEAD
 dasdsadsa
 Edit : edit from main
 oooooooo
 Edit: Ajout from branch dev 
+=======
+ooooooooqqqqqqqq
+Edit: Ajout from branch dev 
+>>>>>>> dev

@@ -1,5 +1,3 @@
 Ici c'est pour faire des tests . 
 
 Retour : Nouvelles modifications enregistrées.
-
-Edit: Ajout from branch dev 
